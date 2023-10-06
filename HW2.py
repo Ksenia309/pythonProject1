@@ -4,19 +4,14 @@
 # Он называет сумму этих чисел S и их произведение P.
 # Помогите Кате отгадать задуманные Петей числа.
 
-def main():
-    input_file = open("input.txt", "r")
-    output_file = open("output.txt", "w")
-    line = input_file.readline().split(' ')
-    n, m = int(line[0]), int(line[1])
-    for i in range(1, min(n, m) + 1):
-        for j in range(1, min(n, m) + 1):
-            if i + j == n and i * j == m:
-                ansq = i
-                answ = j
-
-    output_file.write(str(min(ansq, answ)) + " " + str(max(ansq, answ)) + "\n")
-
-
-if __name__ == "__main__":
-    main()
+int main()
+{
+    int s, p, y;
+    cin >> s >> p;
+    for (int x=1; x <= 30000; ++x){
+    y=s-x;
+    if(x<=y && x*y==p)
+        cout << x << " " << y;
+    }
+    return 0;
+}
