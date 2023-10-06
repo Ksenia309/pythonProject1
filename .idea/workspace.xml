@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e666f44-e190-4759-8d68-921f8fd8d437" name="Changes" comment="HW2" />
+    <list default="true" id="7e666f44-e190-4759-8d68-921f8fd8d437" name="Changes" comment="HW3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +49,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Python Project" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProblemsViewState">
@@ -368,7 +368,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696578632450</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="HW3">
+      <option name="closed" value="true" />
+      <created>1696579080169</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1696579080169</updated>
+    </task>
+    <task id="LOCAL-00032" summary="HW3">
+      <option name="closed" value="true" />
+      <created>1696579320009</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1696579320009</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +404,8 @@
     <MESSAGE value="HW1" />
     <MESSAGE value="Init" />
     <MESSAGE value="HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
