@@ -13,3 +13,5 @@ while res < n+1:
     k += 1
     res = 2 ** k
 
+
+
